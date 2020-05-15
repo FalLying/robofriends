@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bad robot';
+    font-style: normal;
+    font-weight: normal;
+    src: local('bad robot'), url('badrobot.woff') format('woff');
+}
+
+h1 {
+    font-family: 'bad robot';
+    font-weight: 200;
+    color: #0ccac4;
+}
